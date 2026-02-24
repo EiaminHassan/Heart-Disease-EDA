@@ -140,10 +140,3 @@ jupyter notebook
 - Data visualization
 - Insight generation
 
-## 📄 License
-
-This project is for educational and research purposes.
-
-## ⭐ Author
-
-```Eiamin Hassan Shanto

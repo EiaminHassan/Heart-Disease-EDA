@@ -146,8 +146,4 @@ This project is for educational and research purposes.
 
 ## ⭐ Author
 
-**Eiamin Hassan Shanto**
-_Aspiring AI Engineer_
-
-- GitHub: <https://github.com/EiaminHassan>
-- LinkedIn: <https://www.linkedin.com/in/eiamin-hassan-shanto/>
+```Eiamin Hassan Shanto

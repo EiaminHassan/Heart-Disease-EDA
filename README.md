@@ -89,6 +89,7 @@ The project includes:
 
 ## 📁 Project Structure
 
+```
 Heart-Disease-EDA/
 │
 ├── data/
@@ -98,6 +99,7 @@ Heart-Disease-EDA/
 │   └── heart_disease_eda.ipynb
 │
 └── README.md
+```
 
 ## 🚀 How to Run This Project
 
